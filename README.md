@@ -1,10 +1,8 @@
+<h1 align="">Hi ✌️, I'm Gareth </h1>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
+- 👨‍💻 All of my projects are available at [garethrichards.dev](garethrichards.dev)
 
+- 📫 How to reach me **hi@garethrichards.dev**
 
-</p>
-<div size='20px'> Hi! My name is Gareth. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
-
+- ⚡ Fun fact **I'm also an actor and musician with international credits.**
 
