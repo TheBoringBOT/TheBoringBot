@@ -6,3 +6,5 @@
 
 - ⚡ Fun fact **I'm also an actor and musician with international credits.**
 
+- ❤️ **Reading, Skateboarding, Meditation, running, and being creative**
+
